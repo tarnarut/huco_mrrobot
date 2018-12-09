@@ -1,0 +1,45 @@
+# Instagram and Reddit credentials
+instagram_username: calgaryphotoheritage 
+instagram_password: Joyinchrist11
+
+reddit_username: lz_terner
+reddit_password: 95charlesbank
+reddit_secret: TnDOzuC5PQWi2FROIjSDLuMtzg8
+reddit_client: Rtq9APvo7sjSUw
+
+# Configuration which allows us to manipulate where and how much data we will take for analysis 
+show_script_url: https://raw.githubusercontent.com/lenchevsky/huco_data/master/
+show_script_episodes: 10
+show_script_season: 1
+
+instagram_limit_comments: 100
+instagram_limit_hashtag_post: 1600
+
+reddit_submission_limit: 50
+
+#Meta
+languages:
+    -
+        name: English
+        instagram_hashtag: mrrobot
+        subreddit: MrRobot
+        keywords:
+            - coder
+            - hacker
+            - genius
+            - talent
+            - art
+            - creator
+    -
+        name: Russian
+        instagram_hashtag: мистерробот
+        subreddit: MrRobot
+        keywords:
+            - программист
+            - хакер
+            - гений
+            - талант
+            - искусство
+            - творец
+
+
